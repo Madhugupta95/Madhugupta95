@@ -23,7 +23,8 @@ Feel free to reach out if you have questions or discussions related to these top
 
 💬 LinkedIn: https://www.linkedin.com/in/madhu-gupta-0953a0209/
 
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Python, SQL, and a little bit of Human! 🐍💼🗣️ I believe in the power of code, databases, and effective communication to create meaningful solutions.
+
 -->
