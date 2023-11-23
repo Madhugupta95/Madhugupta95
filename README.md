@@ -1,5 +1,6 @@
-https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif
 
+
+![slack-imgs](https://github.com/Madhugupta95/Madhugupta95/assets/117964914/5d6e9520-e3e6-484e-b59c-2982aa4be3e9)
 
 ### Hi there 👋 I'm Madhu Gupta, a passionate data analyst. Welcome to my GitHub profile!
 
