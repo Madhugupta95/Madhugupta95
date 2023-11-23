@@ -10,8 +10,7 @@
 * Python Programming 🐍
 * SQL Database Management 🗃️
 * My Favorite Projects 🚀
-
-- Feel free to reach out if you have questions or discussions related to these topics!
+Feel free to reach out if you have questions or discussions related to these topics!
 
 ## 📫 How to reach me: ...
 
