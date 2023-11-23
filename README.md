@@ -17,12 +17,10 @@
 
 * 📧 Email: 98madhugupta@gmail.com
 
-*  L![download](https://github.com/Madhugupta95/Madhugupta95/assets/117964914/ef37c5eb-6c5d-45c6-b71a-203f8ff22ad7)
-inkedIn: https://www.linkedin.com/in/madhu-gupta-0953a0209/
-
+*  LinkedIn: https://www.linkedin.com/in/madhu-gupta-0953a0209/
 
 ## ⚡ Fun fact: ...
 Python, SQL, and a little bit of Human! 🐍💼🗣️ I believe in the power of code, databases, and effective communication to create meaningful solutions.
 
 
--->
+
