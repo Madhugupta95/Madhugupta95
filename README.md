@@ -20,6 +20,8 @@ I'd love to connect with you! Feel free to reach out on the following platforms:
 - **LinkedIn:** https://www.linkedin.com/in/madhu-gupta-0953a0209/
 - 📧 **Email:** 98madhugupta@gmail.com
 
+- 📄 Know about my experiences https://drive.google.com/file/d/1xfqyFpnNwtEmLWVW2OMX8nT5vpPiX6hi/view?usp=sharing
+
 ## ⚡ Fun fact: ...
 Python, SQL, and a little bit of Human! 🐍💼🗣️ I believe in the power of code, databases, and effective communication to create meaningful solutions.
 
