@@ -13,7 +13,9 @@
 
 * Feel free to reach out if you have questions or discussions related to these topics!
 
-## 📫 How to reach me: ...* 📧 Email: 98madhugupta@gmail.com
+## 📫 How to reach me: ...
+
+* 📧 Email: 98madhugupta@gmail.com
 
 * 💬 LinkedIn: https://www.linkedin.com/in/madhu-gupta-0953a0209/
 
