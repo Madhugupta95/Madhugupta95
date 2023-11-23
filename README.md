@@ -1,3 +1,6 @@
+https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif
+
+
 ### Hi there 👋 I'm Madhu Gupta, a passionate data analyst. Welcome to my GitHub profile!
 
 ## 🌱 I’m currently learning ...Machine Learning
@@ -46,7 +49,7 @@ This project leverages a variety of tools and technologies:
   
   - 🐼 [pandas](https://pandas.pydata.org/): Utilized for data manipulation and analysis.
 
-Feel free to customize the icons and styles based on your preferences.
+
 
 
 
