@@ -17,7 +17,7 @@
 
 * 📧 Email: 98madhugupta@gmail.com
 
-* 💬 LinkedIn: https://www.linkedin.com/in/madhu-gupta-0953a0209/
+* ![LinkedIn Logo] LinkedIn: https://www.linkedin.com/in/madhu-gupta-0953a0209/
 
 
 ## ⚡ Fun fact: ...
